@@ -1,0 +1,8 @@
+﻿  imageloader.cpp
+  main.cpp
+  model.cpp
+  texturemodel.cpp
+D:\.study\Kỹ Thuật Đồ Họa\ClassRoom3D\ClassRoom3D-main\texturemodel.cpp(63,18): warning C4018: '<': signed/unsigned mismatch
+D:\.study\Kỹ Thuật Đồ Họa\ClassRoom3D\ClassRoom3D-main\texturemodel.cpp(74,18): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  KyThuatDoHoa-HaManhToan.vcxproj -> D:\.study\Kỹ Thuật Đồ Họa\ClassRoom3D\ClassRoom3D-main\Debug\ClassRoom.exe
